@@ -1,8 +1,9 @@
 # Presentacion Matias Bonesi
 
-![Screenshot_20230130-195118_WhatsApp_2](https://user-images.githubusercontent.com/128098901/225929909-2bb2b193-ec8c-4b0f-9910-d5d460d71136.jpg)
+![Screenshot_20230130-195118_WhatsApp_2 (4)](https://user-images.githubusercontent.com/128098901/225934159-1422404c-ce7e-490d-b289-2c900cf860fd.jpg)
 
-## Descripcion 
+
+## Descripcion 📝 
 
 * Tengo 18 años y vivo en Campana provincia de Buenos Aires
 * Estudio en la UTN y mi legajo es 13450
